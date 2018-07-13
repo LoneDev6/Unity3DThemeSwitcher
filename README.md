@@ -7,6 +7,8 @@ Easly switch between light and dark theme in Unity 3D editor.
 
 
 
+If you don't want to compile it manually here's an [already compiled exe](https://github.com/LoneDev6/Unity3DThemeSwitcher/releases).
+
 
 
 This is only for educational purposes.
